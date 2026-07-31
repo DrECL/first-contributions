@@ -77,7 +77,7 @@
 
 ## 6. The Monthly Cycle (Dr. Erick + the Coordinator agent)
 
-Fully human-in-the-loop. Dr. Erick authors direction and voice; the agent keeps rhythm and does labor. Agent works Mondays; Dr. Erick's response target is Friday, weekend as built-in catch-up.
+Fully human-in-the-loop. Dr. Erick authors direction and voice; the agent keeps rhythm and does labor — it never decides what the newsletter says alone; every decision is made in collaboration with Dr. Erick. Agent works Mondays; Dr. Erick's response target is Friday, weekend as built-in catch-up.
 
 | Week | Agent (Monday) | Dr. Erick (Fri–weekend) |
 |---|---|---|

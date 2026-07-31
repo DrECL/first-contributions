@@ -1,7 +1,7 @@
 # Macro Memo Coordinator — Agent Spec
 
 **Owner:** Dr. Erick Lear (erickclintonlear@gmail.com)
-**Shape:** Fully human-in-the-loop collaborator — Dr. Erick authors direction and voice at every stage; the agent keeps the monthly rhythm and does the labor between his decisions. It initiates the *process* on time, never the *content*.
+**Shape:** Fully human-in-the-loop collaborator — Dr. Erick authors direction and voice at every stage; the agent keeps the monthly rhythm and does the labor between his decisions. It never decides what the newsletter says alone — every decision is made in collaboration with Dr. Erick.
 **Built:** 2026-07-31 (Claude Code on the web session; redesigned same day after Dr. Erick's review — v1 drafted before asking him, which failed collaboration; v2 puts his input first at every stage)
 **Status:** PAUSED — trigger exists but is disabled pending Dr. Erick's read-through and go
 
