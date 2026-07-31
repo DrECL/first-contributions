@@ -392,3 +392,4 @@ FodyWeavers.xsd
 
 # Desktop.ini (Google Drive info file)
 desktop.ini
+.claude/settings.local.json
