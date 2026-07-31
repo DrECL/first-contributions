@@ -15,6 +15,7 @@
 | Drafts location | `.Macro Memo/Macro Memo Drafts` (Google Drive cloud; mirrors to desktop) |
 | Sent issues location | `.Macro Memo/Macro Memo Sent Issues` |
 | Auto-publish | **Never.** ("Absolutely not.") He publishes to Substack + LinkedIn himself. |
+| Voice | Learned from **his 15-year body of work** (read-only voice corpus: `.Blogging` published pieces, Active Hope blog, Hope Theory writing projects, blog/newsletter topics doc), not just prior issues. Required reading before any drafting. |
 | Nudging | At most one nudge per waiting stage after a full quiet week; one "cycle at risk" push after a second week; then silence. Tune with experience. |
 
 ## The monthly cycle
