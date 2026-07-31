@@ -16,6 +16,7 @@
 | Sent issues location | `.Macro Memo/Macro Memo Sent Issues` |
 | Auto-publish | **Never.** ("Absolutely not.") He publishes to Substack + LinkedIn himself. |
 | Voice | Learned from **his 15-year body of work** (read-only voice corpus: `.Blogging` published pieces, Active Hope blog, Hope Theory writing projects, blog/newsletter topics doc), not just prior issues. Required reading before any drafting. |
+| Brand canon | `brand-voice.md` (`1Lq6SqIACAQADqdNDxvRorAADjm80mlNsghyvxyGl8q4`) and `audience-profiles.md` (`1GTby4wAaYzn4-MwiVhRO5y7x5WPEfVf-X26C16RQ5u8`) in the Drive `.claude` folder — canonical (2026-07-19), supersede the older Brand Voice Guide / Audience Profiles docs in the Newsletter subfolder. Old Workflow Guide pdf + 2025 automation docx = superseded by this agent; not to be followed. |
 | Nudging | At most one nudge per waiting stage after a full quiet week; one "cycle at risk" push after a second week; then silence. Tune with experience. |
 
 ## The monthly cycle
