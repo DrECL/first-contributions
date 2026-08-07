@@ -135,11 +135,15 @@ creation (PDF, DOCX, XLSX, PPTX); deployed websites; many connected apps
 OneDrive, Dropbox, GitHub, Outlook, OneNote — verify current connectors
 each session before routing).
 
-### Gemini (Google AI Studio or Gemini Advanced)
-Keep three things separate: **Gemini AI** (the model), **Gemini workspace
-tools** (native Google Workspace actions), and **AntiGravity** (a separate
-tool, not Gemini). **Strengths:** native Google Workspace integration;
-large context for long documents.
+### Gemini / Google Antigravity
+Antigravity is now part of the Gemini family — Dr. Erick calls it "Gemini
+Antigravity." (Older notes treating AntiGravity as a separate non-Gemini
+tool are outdated.) Three faces of the same family: **Gemini AI** (the
+model, for reasoning and synthesis), **Gemini workspace tools** (native
+Google Workspace actions), and **Antigravity** (Gemini's agentic
+building/development platform). **Strengths:** native Google Workspace
+integration; large context for long documents; agentic building via
+Antigravity.
 
 ### Canva and Gamma — the design programs
 **Canva:** graphics, social media visuals, presentations; connected to
@@ -157,10 +161,23 @@ tools already paid for over adding new subscriptions.** When a task lives
 inside Microsoft Office files, Copilot is an option to consider before
 routing elsewhere.
 
-### Feedly
+### Feeder (feeder.co)
 RSS reader and content-feed tool. Dr. Erick uses it for feeds, not its AI
 features. An option when a task involves gathering or monitoring content
 sources.
+
+### Hostinger
+Website host — Dr. Erick's websites and domains live here, and it has AI
+capabilities of its own (site building). When a website needs to go live,
+Hostinger is the destination: Claude may design and build, Hostinger
+hosts and holds the domains.
+
+### Notion
+The ecosystem's shared workspace and knowledge base — the AI Ecosystem
+Session Log lives here, along with databases and project documentation.
+Connected to Claude, Computer, and other tools. Listed here as a tool on
+purpose, even though it also appears above as part of the filing cabinet:
+it is both a place AIs work IN and a place work is preserved.
 
 ### Raindrop.io
 Bookmarking and content curation (via raindrop connector). Saving links,
@@ -185,8 +202,9 @@ from the Gemini model).
 | Bookmarking and curation | Computer → Raindrop connector |
 | Graphics, social visuals, presentations | Canva or Gamma |
 | Work inside Word/Excel/Office files | Copilot (included with M365) is an option |
-| RSS and content feeds | Feedly |
-| Website or web app | Claude (design) |
+| RSS and content feeds | Feeder (feeder.co) |
+| Website or web app | Claude (design/build) → Hostinger (hosting and domains) |
+| Shared notes, logs, databases | Notion |
 | Anything touching files, repos, or skills | Claude Code |
 | Creating/saving/backing up a skill | Claude Code → skill home (see skill-home skill) |
 
