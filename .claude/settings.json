@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "EveryInc/compound-engineering-plugin"
       }
+    },
+    "claude-skills": {
+      "source": {
+        "source": "github",
+        "repo": "DrECL/first-contributions"
+      }
     }
   },
   "enabledPlugins": {
-    "compound-engineering@compound-engineering-plugin": true
+    "compound-engineering@compound-engineering-plugin": true,
+    "personal-skills@claude-skills": true
   }
 }
