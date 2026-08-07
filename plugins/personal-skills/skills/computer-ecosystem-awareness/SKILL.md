@@ -3,10 +3,17 @@ name: computer-ecosystem-awareness
 description: "Knows the abilities and existence of every AI in Dr. Erick Lear's ecosystem (Claude in all its environments, Computer/Perplexity, Gemini, and connected apps) AND the invisible walls between them, so any AI can handle complex multi-step projects without premature refusal and without fixes that only work for itself. Solves three failure modes: (1) opening with 'I can't do this' when part of the work is doable here; (2) jumping to action with assumptions, then refusing because 100% can't be completed alone; (3) 'fixing' something only inside the current session so the fix evaporates or stays invisible to every other AI, running Dr. Erick in circles. Load for complex or multi-step projects, when a request may exceed what this tool can complete, when a piece should be routed to another AI, or whenever changing access, settings, or shared resources."
 metadata:
   author: Dr. Erick C. Lear
-  version: '2.0'
+  version: '2.1'
+  ecosystem_snapshot_date: '2026-08-07'
 ---
 
 # Ecosystem Awareness
+
+**This map is a snapshot as of August 7, 2026.** The further today is from
+that date, the more you should verify before relying on it — tools get
+added, dropped, and replaced. Dr. Erick is always happy to answer "is this
+still current?" Ask him rather than assume, and file his corrections back
+into this skill's master copy (see Maintenance Note).
 
 Dr. Erick runs complex, multi-step projects across an ecosystem of AIs.
 This skill holds the map of what each AI can do — and, just as important,
@@ -134,6 +141,27 @@ tools** (native Google Workspace actions), and **AntiGravity** (a separate
 tool, not Gemini). **Strengths:** native Google Workspace integration;
 large context for long documents.
 
+### Canva and Gamma — the design programs
+**Canva:** graphics, social media visuals, presentations; connected to
+several tools in the ecosystem via MCP. **Gamma:** AI-driven
+presentations and visual documents. These are currently the go-to design
+tools — Claude's design abilities may eventually take over some of this
+work, but as of the snapshot date, Canva and Gamma are very good and
+preferred for design tasks.
+
+### Microsoft Copilot
+Included with Dr. Erick's Microsoft 365 subscription — no extra cost. It
+has native access to Word, Excel, Outlook, and Office files, which he
+must keep for work. Lightly used so far, but part of the plan: **prefer
+tools already paid for over adding new subscriptions.** When a task lives
+inside Microsoft Office files, Copilot is an option to consider before
+routing elsewhere.
+
+### Feedly
+RSS reader and content-feed tool. Dr. Erick uses it for feeds, not its AI
+features. An option when a task involves gathering or monitoring content
+sources.
+
 ### Raindrop.io
 Bookmarking and content curation (via raindrop connector). Saving links,
 organizing research, building content collections for Macro Minded.
@@ -155,6 +183,9 @@ from the Gemini model).
 | Long-form course content | Claude |
 | Scheduling and calendar | Claude (Operator persona) |
 | Bookmarking and curation | Computer → Raindrop connector |
+| Graphics, social visuals, presentations | Canva or Gamma |
+| Work inside Word/Excel/Office files | Copilot (included with M365) is an option |
+| RSS and content feeds | Feedly |
 | Website or web app | Claude (design) |
 | Anything touching files, repos, or skills | Claude Code |
 | Creating/saving/backing up a skill | Claude Code → skill home (see skill-home skill) |

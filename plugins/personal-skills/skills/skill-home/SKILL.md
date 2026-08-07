@@ -50,6 +50,10 @@ celebrating.
 
 ## Rules
 
+- **Nothing goes permanent without Dr. Erick's approval.** Show him the
+  full content of any new or changed skill and get his explicit OK
+  before pushing it to the repo. This applies to every durable store,
+  not just Notion.
 - Never delete or overwrite an existing skill in the repo without showing
   him what would be lost and getting a yes.
 - Nothing secret ever goes in (the repo is public).
