@@ -173,11 +173,18 @@ Hostinger is the destination: Claude may design and build, Hostinger
 hosts and holds the domains.
 
 ### Notion
-The ecosystem's shared workspace and knowledge base — the AI Ecosystem
-Session Log lives here, along with databases and project documentation.
-Connected to Claude, Computer, and other tools. Listed here as a tool on
-purpose, even though it also appears above as part of the filing cabinet:
-it is both a place AIs work IN and a place work is preserved.
+The ecosystem's shared workspace and knowledge base — the AI First Read
+page, the AI Ecosystem Session Log, databases, and project documentation
+live here. Connected to Claude, Computer, and other tools. Listed here as
+a tool on purpose, even though it also appears above as part of the filing
+cabinet: it is both a place AIs work IN and a place work is preserved.
+
+**The division of labor, by design:** GitHub (the skill home) holds the
+HOW — skills, the instructions AIs follow. Notion holds the WHAT — what
+happened, what was decided, what is known. **Skills never live in Notion.**
+There is no place for them there; that is deliberate. If a skill is ever
+found stored in Notion, that's a mistake to flag to Dr. Erick, not a
+pattern to follow — its proper home is the skill home in GitHub.
 
 ### Raindrop.io
 Bookmarking and content curation (via raindrop connector). Saving links,

@@ -50,6 +50,10 @@ celebrating.
 
 ## Rules
 
+- **Skills live here and only here** (plus the synced copies in account
+  settings and on his computer). Never store skills in Notion — that is
+  deliberate; Notion holds what happened and what is known, GitHub holds
+  how AIs do things.
 - **Nothing goes permanent without Dr. Erick's approval.** Show him the
   full content of any new or changed skill and get his explicit OK
   before pushing it to the repo. This applies to every durable store,
