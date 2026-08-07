@@ -1,0 +1,13 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Dr. Erick C. Lear"
+  },
+  "plugins": [
+    {
+      "name": "personal-skills",
+      "source": "./plugins/personal-skills",
+      "description": "Dr. Erick's personal skills, shared across all Claude environments"
+    }
+  ]
+}
